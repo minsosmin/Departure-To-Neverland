@@ -9,6 +9,8 @@
 [Cron 在线生成工具](http://cron.qqe2.com/)  
 [开发人员工具](https://tool.lu/)  
 
+[Cambridge Dictionary](https://dictionary.cambridge.org/)  
+
 [Firefox Browser to download](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)  
 [Chrome download](https://tools.shuax.com/chrome/#/)  
 
