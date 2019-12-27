@@ -21,6 +21,6 @@
 [Bootstrap 中文网](https://www.bootcss.com/)  
 
 ### Spring 教程
-[极客学院Spring Wiki](http://wiki.jikexueyuan.com/project/spring/)  
+[极客学院 Spring Wiki](http://wiki.jikexueyuan.com/project/spring/)  
 [Spring W3Cschool 教程](https://www.w3cschool.cn/wkspring/pesy1icl.html)  
 
