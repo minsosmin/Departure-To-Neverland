@@ -5,6 +5,7 @@
   - [CS-Notes](#CS-Notes)
   - [JavaGuide](#JavaGuide)
   - [toBeTopJavaer](#toBeTopJavaer)
+  - [Java-27](#Java-27)
 # [Programming-Books](#Programming-Books)
   - [free-programming-books](#free-programming-books)
   - [free-books](#free-books)
@@ -48,6 +49,8 @@
   - [ ] 【Java 学习+面试指南】 一份涵盖大部分 Java 程序员所需要掌握的核心知识。
 ### [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)   
   - [ ] Java 工程师成神之路
+### [Java-27](https://github.com/DuGuQiuBai/Java)     
+  - [ ] 27 天成为 Java 大神
 
 ## Programming-Books
 ### [free-programming-books](https://github.com/justjavac/free-programming-books-zh_CN)  
