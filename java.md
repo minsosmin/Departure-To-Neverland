@@ -15,6 +15,8 @@
 # [SpringBoot](#SpringBoot)
   - [spring-boot](#spring-boot)
   - [spring-boot-examples](#spring-boot-examples)
+# Tools
+  - [IntelliJ-idea](#IntelliJ-idea)
 # [Instantiate](#Instantiate) 
   - [mall](#mall)
   - [zheng](#zheng)  
@@ -52,7 +54,11 @@
   - [ ] https://spring.io/projects/spring-boot
 ### [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)     
   - [ ] Spring Boot 教程
-  
+
+## Tools
+### [IntelliJ-idea](https://github.com/judasn/IntelliJ-IDEA-Tutorial)  
+  - [ ] IntelliJ IDEA 简体中文专题教程
+
 ## Instantiate
 ### [mall](https://github.com/macrozheng/mall)  
   - [ ] mall 项目是一套电商系统，包括前台商城系统及后台管理系统，基于 SpringBoot + MyBatis 实现，采用 Docker 容器化部署。
