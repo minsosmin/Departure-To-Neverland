@@ -7,6 +7,7 @@
 # [Programming-Books](#Programming-Books)
   - [free-programming-books](#free-programming-books)
 # [Data-Structures-and-Algorithms](#Data-Structures-and-Algorithms)  
+  - [algo](#algo)
   - [LeetCode](#LeetCode)  
     - [LeetCodeAnimation](#LeetCodeAnimation)
     - [LeetCodeSolutions](#LeetCodeSolutions)
@@ -39,6 +40,8 @@
   - [ ] 计算机编程类中文书籍
 
 ## Data-Structures-and-Algorithms
+### [algo](https://github.com/wangzheng0822/algo)  
+  - [ ] 数据结构和算法必知必会的 50 个代码实现
 > ### LeetCode
 >> ##### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)  
 >>  - [ ] 用动画的形式呈现解 LeetCode 题目的思路
