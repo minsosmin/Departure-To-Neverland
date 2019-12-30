@@ -17,6 +17,7 @@
   - [architect-awesome](#architect-awesome)
   - [advanced-java](#advanced-java)
 # [Spring](#Spring)
+  - [spring-analysis](#spring-analysis)
   - [SpringAll](#SpringAll)
 # [SpringBoot](#SpringBoot)
   - [spring-boot](#spring-boot)
@@ -70,6 +71,8 @@
   - [ ] Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
 ## Spring
+### [spring-analysis](https://github.com/seaswalker/spring-analysis)  
+  - [ ] Spring 源码阅读
 ### [SpringAll](https://github.com/wuyouzhuguli/SpringAll)  
   - [ ] Spring 系列
 
