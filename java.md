@@ -3,6 +3,8 @@
   - [JavaGuide](#JavaGuide)
 # [programming-books](#programming-books)
   - [free-programming-books](#free-programming-books)
+# [LeetCode](#LeetCode)  
+  - [LeetCodeAnimation](#LeetCodeAnimation)
 
 ## Interview
 ### [CS-Notes](https://github.com/CyC2018/CS-Notes)  
@@ -13,3 +15,7 @@
 ## programming-books
 ### [free-programming-books](https://github.com/justjavac/free-programming-books-zh_CN)  
   - [ ] 计算机编程类中文书籍
+
+## LeetCode
+### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)  
+  - [ ] 用动画的形式呈现解LeetCode题目的思路
