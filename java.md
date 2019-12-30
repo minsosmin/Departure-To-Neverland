@@ -7,6 +7,7 @@
   - [LeetCodeAnimation](#LeetCodeAnimation)
 # [Architect](#Architect)  
   - [architect-awesome](#architect-awesome)
+  - [advanced-java](#advanced-java)
 # [SpringBoot](#SpringBoot)
   - [spring-boot](#spring-boot)
 
@@ -27,6 +28,8 @@
 ## Architect
 ### [architect-awesome](https://github.com/xingshaocheng/architect-awesome)  
   - [ ] 后端架构师技术图谱
+### [advanced-java](https://github.com/doocs/advanced-java)    
+  - [ ] Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
 ## SpringBoot
 ### [spring-boot](https://github.com/spring-projects/spring-boot)  
