@@ -1,6 +1,6 @@
 # [Interview](#Interview)  
   - [programmer-job-blacklist](#programmer-job-blacklist)
-  - [interview_internal_reference](#interview_internal_reference)
+  - [interview-internal-reference](#interview-internal-reference)
   - [CS-Notes](#CS-Notes)
   - [JavaGuide](#JavaGuide)
 # [Programming-Books](#Programming-Books)
@@ -19,7 +19,7 @@
 ## Interview
 ### [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)  
   - [ ] 程序员找工作黑名单
-### [interview_internal_reference(https://github.com/0voice/interview_internal_reference)
+### [interview-internal-reference(https://github.com/0voice/interview_internal_reference)
   - [] 阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 ### [CS-Notes](https://github.com/CyC2018/CS-Notes)  
   - [ ] 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++   
