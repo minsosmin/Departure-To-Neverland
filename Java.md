@@ -4,6 +4,7 @@
   - [ResumeSample](#ResumeSample)
   - [CS-Notes](#CS-Notes)
   - [JavaGuide](#JavaGuide)
+  - [toBeTopJavaer](#toBeTopJavaer)
 # [Programming-Books](#Programming-Books)
   - [free-programming-books](#free-programming-books)
 # [Data-Structures-and-Algorithms](#Data-Structures-and-Algorithms)  
@@ -39,6 +40,8 @@
   - [ ] 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++   
 ### [JavaGuide](https://github.com/Snailclimb/JavaGuide)  
   - [ ] 【Java 学习+面试指南】 一份涵盖大部分 Java 程序员所需要掌握的核心知识。
+### [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)   
+  - [ ] Java 工程师成神之路
 
 ## Programming-Books
 ### [free-programming-books](https://github.com/justjavac/free-programming-books-zh_CN)  
