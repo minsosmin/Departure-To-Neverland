@@ -26,6 +26,7 @@
 # [Tools](#Tools)
   - [IntelliJ-idea](#IntelliJ-idea)
   - [awesome-java-cn](#awesome-java-cn)
+  - [chinese-copywriting-guidelines](#chinese-copywriting-guidelines)
 # [Instantiate](#Instantiate) 
   - [mall](#mall)
   - [zheng](#zheng)  
@@ -86,6 +87,8 @@
   - [ ] IntelliJ IDEA 简体中文专题教程
 ### [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)    
   - [ ] Java 资源大全中文版
+### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)    
+  - [ ] 中文文案排版指北
 
 ## Instantiate
 ### [mall](https://github.com/macrozheng/mall)  
