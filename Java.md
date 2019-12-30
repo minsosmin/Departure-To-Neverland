@@ -21,6 +21,7 @@
   - [spring-boot-examples](#spring-boot-examples)
 # Tools
   - [IntelliJ-idea](#IntelliJ-idea)
+  - [awesome-java-cn](#awesome-java-cn)
 # [Instantiate](#Instantiate) 
   - [mall](#mall)
   - [zheng](#zheng)  
@@ -70,6 +71,8 @@
 ## Tools
 ### [IntelliJ-idea](https://github.com/judasn/IntelliJ-IDEA-Tutorial)  
   - [ ] IntelliJ IDEA 简体中文专题教程
+### [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)    
+  - [ ] Java 资源大全中文版
 
 ## Instantiate
 ### [mall](https://github.com/macrozheng/mall)  
