@@ -1,11 +1,11 @@
 # [Interview](#Interview)  
   - [CS-Notes](#CS-Notes)
   - [JavaGuide](#JavaGuide)
-# [programming-books](#programming-books)
+# [Programming-Books](#Programming-Books)
   - [free-programming-books](#free-programming-books)
 # [LeetCode](#LeetCode)  
   - [LeetCodeAnimation](#LeetCodeAnimation)
-# [architect](#architect)  
+# [Architect](#Architect)  
   - [architect-awesome](#architect-awesome)
 # [SpringBoot](#SpringBoot)
   - [spring-boot](#spring-boot)
@@ -16,7 +16,7 @@
 ### [JavaGuide](https://github.com/Snailclimb/JavaGuide)  
   - [ ] 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 
-## programming-books
+## Programming-Books
 ### [free-programming-books](https://github.com/justjavac/free-programming-books-zh_CN)  
   - [ ] 计算机编程类中文书籍
 
@@ -24,7 +24,7 @@
 ### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)  
   - [ ] 用动画的形式呈现解LeetCode题目的思路
   
-## architect
+## Architect
 ### [architect-awesome](https://github.com/xingshaocheng/architect-awesome)  
   - [ ] 后端架构师技术图谱
 
