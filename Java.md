@@ -30,6 +30,7 @@
   - [mall](#mall)
   - [zheng](#zheng)  
   - [miaosha](#miaosha)
+  - [jeesite](#jeesite)
 
 ## Interview
 ### [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)  
@@ -93,7 +94,8 @@
   - [ ] 基于 Spring + SpringMVC + Mybatis 分布式敏捷开发系统架构
 ### [miaosha](https://github.com/qiurunze123/miaosha)    
   - [ ] 秒杀系统设计与实现.互联网工程师进阶与分析
-  
+### [jeesite](https://github.com/thinkgem/jeesite)   
+  - [ ] JeeSite 是一个企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架。
 
 ********************************************************************************************************************************
 [回到顶部](#Interview)  
