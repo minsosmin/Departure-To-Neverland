@@ -17,6 +17,7 @@
   - [spring-boot-examples](#spring-boot-examples)
 # [Instantiate](#Instantiate) 
   - [mall](#mall)
+  - [zheng](#zheng)  
 
 ## Interview
 ### [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)  
@@ -55,6 +56,8 @@
 ## Instantiate
 ### [mall](https://github.com/macrozheng/mall)  
   - [ ] mall 项目是一套电商系统，包括前台商城系统及后台管理系统，基于 SpringBoot + MyBatis 实现，采用 Docker 容器化部署。
+### [zheng](https://github.com/shuzheng/zheng)    
+  - [ ] 基于 Spring + SpringMVC + Mybatis 分布式敏捷开发系统架构
   
 
 ********************************************************************************************************************************
