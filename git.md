@@ -1,3 +1,3 @@
-[gitignore](#gitignore)
+# [gitignore](#gitignore)
 
-# [gitignore](https://github.com/github/gitignore)  
+### [gitignore](https://github.com/github/gitignore)  
