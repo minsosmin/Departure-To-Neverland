@@ -29,6 +29,7 @@
   - [IntelliJ-idea](#IntelliJ-idea)
   - [awesome-java-cn](#awesome-java-cn)
   - [chinese-copywriting-guidelines](#chinese-copywriting-guidelines)
+  - [awesome-cheatsheets](#awesome-cheatsheets)
 # [Instantiate](#Instantiate) 
   - [mall](#mall)
   - [zheng](#zheng)  
@@ -96,6 +97,8 @@
   - [ ] Java 资源大全中文版
 ### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)    
   - [ ] 中文文案排版指北
+### [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) 
+  - [ ] 编程语言、框架和开发工具的速查表
 
 ## Instantiate
 ### [mall](https://github.com/macrozheng/mall)  
