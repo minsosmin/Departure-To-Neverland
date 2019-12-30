@@ -6,9 +6,10 @@
   - [JavaGuide](#JavaGuide)
 # [Programming-Books](#Programming-Books)
   - [free-programming-books](#free-programming-books)
-# [LeetCode](#LeetCode)  
-  - [LeetCodeAnimation](#LeetCodeAnimation)
-  - [LeetCodeSolutions](#LeetCodeSolutions)
+# [Data-Structures-and-Algorithms](#Data-Structures-and-Algorithms)  
+  -[LeetCode](#LeetCode)  
+    - [LeetCodeAnimation](#LeetCodeAnimation)
+    - [LeetCodeSolutions](#LeetCodeSolutions)
 # [Architect](#Architect)  
   - [architect-awesome](#architect-awesome)
   - [advanced-java](#advanced-java)
@@ -37,11 +38,12 @@
 ### [free-programming-books](https://github.com/justjavac/free-programming-books-zh_CN)  
   - [ ] 计算机编程类中文书籍
 
-## LeetCode
-### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)  
-  - [ ] 用动画的形式呈现解 LeetCode 题目的思路
-### [LeetCodeSolutions](https://github.com/azl397985856/leetcode)    
-  - [ ] leetcode 题解
+## Data-Structures-and-Algorithms
+  ### LeetCode
+  ##### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)  
+    - [ ] 用动画的形式呈现解 LeetCode 题目的思路
+  ##### [LeetCodeSolutions](https://github.com/azl397985856/leetcode)    
+    - [ ] leetcode 题解
   
 ## Architect
 ### [architect-awesome](https://github.com/xingshaocheng/architect-awesome)  
