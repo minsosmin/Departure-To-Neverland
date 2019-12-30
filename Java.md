@@ -40,6 +40,8 @@
   - [miaosha](#miaosha)
   - [jeesite](#jeesite)
   - [JustAuth](#JustAuth)
+# [Others](#Others)  
+  - [manong](#manong)
 
 ## Interview
 ### [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)  
@@ -124,5 +126,8 @@
 ### [JustAuth](https://github.com/justauth/JustAuth)   
   - [ ] 整合第三方登录的开源库。
 
+## Others
+### [manong](https://github.com/nemoTyrant/manong)  
+  - [ ] 码农周刊整理
 ********************************************************************************************************************************
 [回到顶部](#Interview)  
