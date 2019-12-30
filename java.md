@@ -39,11 +39,11 @@
   - [ ] 计算机编程类中文书籍
 
 ## Data-Structures-and-Algorithms
-### LeetCode
-##### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)  
-  - [ ] 用动画的形式呈现解 LeetCode 题目的思路
-##### [LeetCodeSolutions](https://github.com/azl397985856/leetcode)    
-  - [ ] leetcode 题解
+> ### LeetCode
+>> ##### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)  
+    - [ ] 用动画的形式呈现解 LeetCode 题目的思路
+>> ##### [LeetCodeSolutions](https://github.com/azl397985856/leetcode)    
+    - [ ] leetcode 题解
   
 ## Architect
 ### [architect-awesome](https://github.com/xingshaocheng/architect-awesome)  
