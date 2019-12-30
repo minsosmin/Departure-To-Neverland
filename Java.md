@@ -36,6 +36,7 @@
   - [awesome-cheatsheets](#awesome-cheatsheets)
   - [hacker-laws-zh](#hacker-laws-zh)
   - [pinyin](#pinyin)
+  - [vinsomnia](#insomnia)
 # [Instantiate](#Instantiate) 
   - [mall](#mall)
   - [zheng](#zheng)  
@@ -121,6 +122,8 @@
   - [ ] 对开发人员有用的定律、理论、原则和模式。
 ### [pinyin](https://github.com/hotoo/pinyin)  
   - [ ] 汉字拼音 ➜ hàn zì pīn yīn
+### [insomnia](https://github.com/Kong/insomnia)  
+  - [ ] Cross-platform HTTP and GraphQL Client
 
 ## Instantiate
 ### [mall](https://github.com/macrozheng/mall)  
