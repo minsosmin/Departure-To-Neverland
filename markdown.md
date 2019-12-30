@@ -3,7 +3,4 @@
 ### [editor.md](https://github.com/pandao/editor.md)  
   - [X] `The open source embeddable online markdown editor (component).`
 ### [README](https://github.com/guodongxiaren/README)  
-
-
-  
-  
+  - [X] `Github Flavored Markdown 语法介绍` 
