@@ -31,6 +31,7 @@
   - [chinese-copywriting-guidelines](#chinese-copywriting-guidelines)
   - [awesome-cheatsheets](#awesome-cheatsheets)
   - [hacker-laws-zh](#hacker-laws-zh)
+  - [pinyin](#pinyin)
 # [Instantiate](#Instantiate) 
   - [mall](#mall)
   - [zheng](#zheng)  
@@ -102,6 +103,8 @@
   - [ ] 编程语言、框架和开发工具的速查表
 ### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) 
   - [ ] 对开发人员有用的定律、理论、原则和模式。
+### [pinyin](https://github.com/hotoo/pinyin)  
+  - [ ] 汉字拼音 ➜ hàn zì pīn yīn
 
 ## Instantiate
 ### [mall](https://github.com/macrozheng/mall)  
