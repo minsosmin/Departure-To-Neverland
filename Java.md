@@ -8,6 +8,7 @@
   - [toBeTopJavaer](#toBeTopJavaer)
   - [JavaFamily](#JavaFamily)
   - [Java-27-days](#Java-27-days)
+  - [CodingInterviews](#CodingInterviews)
 # [Programming-Books](#Programming-Books)
   - [free-programming-books](#free-programming-books)
   - [free-books](#free-books)
@@ -62,6 +63,8 @@
   - [ ] 互联网一线大厂面试 + 学习指南
 ### [Java-27-days](https://github.com/DuGuQiuBai/Java)     
   - [ ] 27 天成为 Java 大神
+### [CodingInterviews](https://github.com/gatieme/CodingInterviews)  
+  - [ ] 剑指 Offer —— 名企面试官精讲典型编程题
 
 ## Programming-Books
 ### [free-programming-books](https://github.com/justjavac/free-programming-books-zh_CN)  
