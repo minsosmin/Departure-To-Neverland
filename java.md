@@ -5,6 +5,8 @@
   - [free-programming-books](#free-programming-books)
 # [LeetCode](#LeetCode)  
   - [LeetCodeAnimation](#LeetCodeAnimation)
+# [architect](#architect)  
+  - [architect-awesome](#architect-awesome)
 # [SpringBoot](#SpringBoot)
   - [spring-boot](#spring-boot)
 
@@ -21,6 +23,10 @@
 ## LeetCode
 ### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)  
   - [ ] 用动画的形式呈现解LeetCode题目的思路
+  
+## architect
+### [architect-awesome](https://github.com/xingshaocheng/architect-awesome)  
+  - [ ] 后端架构师技术图谱
 
 ## SpringBoot
 ### [spring-boot](https://github.com/spring-projects/spring-boot)  
