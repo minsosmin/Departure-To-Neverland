@@ -21,6 +21,7 @@
   - [spring-boot](#spring-boot)
   - [spring-boot-examples](#spring-boot-examples)
   - [springboot-learning-example](#springboot-learning-example)
+  - [spring-boot-demo](#spring-boot-demo)
 # Tools
   - [IntelliJ-idea](#IntelliJ-idea)
   - [awesome-java-cn](#awesome-java-cn)
@@ -73,6 +74,8 @@
   - [ ] Spring Boot 教程
 ### [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)  
   - [ ] spring boot 初学者及核心技术巩固的最佳实践。
+### [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)  
+  - [ ] 学习并实战 spring boot 的项目
 
 ## Tools
 ### [IntelliJ-idea](https://github.com/judasn/IntelliJ-IDEA-Tutorial)  
