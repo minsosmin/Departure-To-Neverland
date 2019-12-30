@@ -7,7 +7,7 @@
 # [Programming-Books](#Programming-Books)
   - [free-programming-books](#free-programming-books)
 # [Data-Structures-and-Algorithms](#Data-Structures-and-Algorithms)  
-  -[LeetCode](#LeetCode)  
+  - [LeetCode](#LeetCode)  
     - [LeetCodeAnimation](#LeetCodeAnimation)
     - [LeetCodeSolutions](#LeetCodeSolutions)
 # [Architect](#Architect)  
