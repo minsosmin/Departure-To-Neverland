@@ -32,6 +32,7 @@
 # [Tools](#Tools)
   - [IntelliJ-idea](#IntelliJ-idea)
   - [jd-gui](#jd-gui)
+  - [Luyten](#Luyten)
   - [awesome-java-cn](#awesome-java-cn)
   - [chinese-copywriting-guidelines](#chinese-copywriting-guidelines)
   - [awesome-cheatsheets](#awesome-cheatsheets)
@@ -115,6 +116,8 @@
   - [ ] IntelliJ IDEA 简体中文专题教程
 ### [jd-gui](https://github.com/java-decompiler/jd-gui)    
   - [ ] A standalone Java Decompiler GUI
+### [Luyten](https://github.com/deathmarine/Luyten)  
+  - [ ] An Open Source Java Decompiler Gui for Procyon
 ### [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)    
   - [ ] Java 资源大全中文版
 ### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)    
