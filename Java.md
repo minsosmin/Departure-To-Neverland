@@ -34,6 +34,7 @@
   - [IntelliJ-idea](#IntelliJ-idea)
   - [jd-gui](#jd-gui)
   - [Luyten](#Luyten)
+  - [okhttp](#okhttp)
   - [awesome-java-cn](#awesome-java-cn)
   - [chinese-copywriting-guidelines](#chinese-copywriting-guidelines)
   - [awesome-cheatsheets](#awesome-cheatsheets)
@@ -122,6 +123,9 @@
   - [ ] A standalone Java Decompiler GUI
 ### [Luyten](https://github.com/deathmarine/Luyten)  
   - [ ] An Open Source Java Decompiler Gui for Procyon
+### [okhttp](https://github.com/square/okhttp)    
+  - [ ] An HTTP client for Android, Kotlin, and Java.
+  - [ ] https://square.github.io/okhttp/
 ### [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)    
   - [ ] Java 资源大全中文版
 ### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)    
