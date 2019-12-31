@@ -6,6 +6,7 @@
   - [JavaGuide](#JavaGuide)
   - [interviews](#interviews)
   - [JCSprout](#JCSprout)
+  - [LearningNotes](#LearningNotes)
   - [Java3y](#Java3y)
   - [toBeTopJavaer](#toBeTopJavaer)
   - [JavaFamily](#JavaFamily)
@@ -74,6 +75,8 @@
 ### [JCSprout](https://github.com/crossoverJie/JCSprout)  
   - [ ] 处于萌芽阶段的 Java 核心知识库。
   - [ ] https://crossoverjie.top/JCSprout/#/
+### [LearningNotes](https://github.com/francistao/LearningNotes)  
+  - [ ] LearningNotes
 ### [Java3y](https://github.com/ZhongFuCheng3y/3y)    
   - [ ] 从 Java 基础、JavaWeb 基础到常用的框架再到面试题都有完整的教程，几乎涵盖了 Java 后端必备的知识点
 ### [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)   
