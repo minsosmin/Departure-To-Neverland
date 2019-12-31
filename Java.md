@@ -38,6 +38,7 @@
   - [Luyten](#Luyten)
   - [okhttp](#okhttp)
   - [fastjson](#fastjson)
+  - [easyexcel](#easyexcel)
   - [awesome-java-cn](#awesome-java-cn)
   - [chinese-copywriting-guidelines](#chinese-copywriting-guidelines)
   - [awesome-cheatsheets](#awesome-cheatsheets)
@@ -136,6 +137,8 @@
   - [ ] https://square.github.io/okhttp/
 ### [fastjson](https://github.com/alibaba/fastjson)    
   - [ ] A fast JSON parser/generator for Java. 
+### [easyexcel](https://github.com/alibaba/easyexcel)  
+  - [ ] 快速、简单避免OOM的java处理Excel工具 
 ### [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)    
   - [ ] Java 资源大全中文版
 ### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)    
