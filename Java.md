@@ -50,6 +50,7 @@
   - [miaosha](#miaosha)
   - [jeesite](#jeesite)
   - [JustAuth](#JustAuth)
+  - [WxJava](#WxJava)
   - [IJPay](#IJPay)
   - [pay-java-parent](#pay-java-parent)
 # [Others](#Others)  
@@ -159,6 +160,8 @@
   - [ ] JeeSite 是一个企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架。
 ### [JustAuth](https://github.com/justauth/JustAuth)   
   - [ ] 整合第三方登录的开源库。
+### [WxJava](https://github.com/Wechat-Group/WxJava) 
+  - [ ] 支持包括微信支付、开放平台、公众号、企业微信/企业号、小程序等微信功能的后端开发。
 ### [IJPay](https://github.com/Javen205/IJPay) 
   - [ ] 封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付常用的支付方式以及各种常用的接口。
 ### [pay-java-parent](https://github.com/egzosn/pay-java-parent)  
