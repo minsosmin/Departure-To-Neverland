@@ -51,6 +51,7 @@
   - [mall](#mall)
   - [zheng](#zheng)  
   - [miaosha](#miaosha)
+  - [jeecg-boot](#jeecg-boot)
   - [jeesite](#jeesite)
   - [JustAuth](#JustAuth)
   - [halo](#halo)
@@ -166,6 +167,8 @@
   - [ ] 基于 Spring + SpringMVC + Mybatis 分布式敏捷开发系统架构
 ### [miaosha](https://github.com/qiurunze123/miaosha)    
   - [ ] 秒杀系统设计与实现.互联网工程师进阶与分析
+### [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot)  
+  - [ ] JeecgBoot 是一款基于代码生成器的J2EE快速开发平台！采用前后端分离架构：SpringBoot2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。
 ### [jeesite](https://github.com/thinkgem/jeesite)   
   - [ ] JeeSite 是一个企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架。
 ### [JustAuth](https://github.com/justauth/JustAuth)   
