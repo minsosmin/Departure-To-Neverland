@@ -7,6 +7,7 @@
   - [interviews](#interviews)
   - [JCSprout](#JCSprout)
   - [LearningNotes](#LearningNotes)
+  - [technology-talk](#technology-talk)
   - [Java3y](#Java3y)
   - [toBeTopJavaer](#toBeTopJavaer)
   - [JavaFamily](#JavaFamily)
@@ -81,6 +82,8 @@
   - [ ] https://crossoverjie.top/JCSprout/#/
 ### [LearningNotes](https://github.com/francistao/LearningNotes)  
   - [ ] LearningNotes
+### [technology-talk](https://github.com/aalansehaiyang/technology-talk)  
+  - [ ] 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识 
 ### [Java3y](https://github.com/ZhongFuCheng3y/3y)    
   - [ ] 从 Java 基础、JavaWeb 基础到常用的框架再到面试题都有完整的教程，几乎涵盖了 Java 后端必备的知识点
 ### [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)   
