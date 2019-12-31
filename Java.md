@@ -52,6 +52,7 @@
   - [miaosha](#miaosha)
   - [jeesite](#jeesite)
   - [JustAuth](#JustAuth)
+  - [halo](#halo)
   - [WxJava](#WxJava)
   - [IJPay](#IJPay)
   - [pay-java-parent](#pay-java-parent)
@@ -166,6 +167,8 @@
   - [ ] JeeSite 是一个企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架。
 ### [JustAuth](https://github.com/justauth/JustAuth)   
   - [ ] 整合第三方登录的开源库。
+### [halo](https://github.com/halo-dev/halo)  
+  - [ ] Halo 是一款现代化的个人独立博客系统，给习惯写博客的同学多一个选择。
 ### [WxJava](https://github.com/Wechat-Group/WxJava) 
   - [ ] 支持包括微信支付、开放平台、公众号、企业微信/企业号、小程序等微信功能的后端开发。
 ### [IJPay](https://github.com/Javen205/IJPay) 
