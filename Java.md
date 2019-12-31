@@ -31,6 +31,7 @@
   - [springboot-guide](#springboot-guide)
 # [Tools](#Tools)
   - [IntelliJ-idea](#IntelliJ-idea)
+  - [jd-gui](#jd-gui)
   - [awesome-java-cn](#awesome-java-cn)
   - [chinese-copywriting-guidelines](#chinese-copywriting-guidelines)
   - [awesome-cheatsheets](#awesome-cheatsheets)
@@ -112,6 +113,8 @@
 ## Tools
 ### [IntelliJ-idea](https://github.com/judasn/IntelliJ-IDEA-Tutorial)  
   - [ ] IntelliJ IDEA 简体中文专题教程
+### [jd-gui](https://github.com/java-decompiler/jd-gui)    
+  - [ ] A standalone Java Decompiler GUI
 ### [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)    
   - [ ] Java 资源大全中文版
 ### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)    
