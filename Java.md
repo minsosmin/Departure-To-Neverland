@@ -19,6 +19,7 @@
   - [LeetCode](#LeetCode)  
     - [LeetCodeAnimation](#LeetCodeAnimation)
     - [LeetCodeSolutions](#LeetCodeSolutions)
+  - [Algorithms-Java](#Algorithms-Java)  
 # [Architect](#Architect)  
   - [architect-awesome](#architect-awesome)
   - [advanced-java](#advanced-java)
@@ -95,7 +96,8 @@
 >>  - [ ] 用动画的形式呈现解 LeetCode 题目的思路
 >> ##### [LeetCodeSolutions](https://github.com/azl397985856/leetcode)    
 >>  - [ ] leetcode 题解
-  
+### [Algorithms-Java](https://github.com/TheAlgorithms/Java)  
+  - [ ] All algorithms are implemented in Java.
 ## Architect
 ### [architect-awesome](https://github.com/xingshaocheng/architect-awesome)  
   - [ ] 后端架构师技术图谱
