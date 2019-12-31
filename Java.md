@@ -5,6 +5,7 @@
   - [CS-Notes](#CS-Notes)
   - [JavaGuide](#JavaGuide)
   - [interviews](#interviews)
+  - [JCSprout](#JCSprout)
   - [Java3y](#Java3y)
   - [toBeTopJavaer](#toBeTopJavaer)
   - [JavaFamily](#JavaFamily)
@@ -66,6 +67,9 @@
 ### [interviews](https://github.com/kdn251/interviews)  
   - [ ] 软件工程技术面试个人指南。
   - [ ] https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g?view_as=subscriber
+### [JCSprout](https://github.com/crossoverJie/JCSprout)  
+  - [ ] 处于萌芽阶段的 Java 核心知识库。
+  - [ ] https://crossoverjie.top/JCSprout/#/
 ### [Java3y](https://github.com/ZhongFuCheng3y/3y)    
   - [ ] 从 Java 基础、JavaWeb 基础到常用的框架再到面试题都有完整的教程，几乎涵盖了 Java 后端必备的知识点
 ### [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)   
