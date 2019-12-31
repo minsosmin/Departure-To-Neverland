@@ -55,6 +55,7 @@
   - [jeesite](#jeesite)
   - [JustAuth](#JustAuth)
   - [halo](#halo)
+  - [webmagic](#webmagic)
   - [WxJava](#WxJava)
   - [IJPay](#IJPay)
   - [pay-java-parent](#pay-java-parent)
@@ -176,6 +177,8 @@
   - [ ] 整合第三方登录的开源库。
 ### [halo](https://github.com/halo-dev/halo)  
   - [ ] Halo 是一款现代化的个人独立博客系统，给习惯写博客的同学多一个选择。
+### [webmagic](https://github.com/code4craft/webmagic)  
+  - [ ] webmagic是一个开源的Java垂直爬虫框架，目标是简化爬虫的开发流程，让开发者专注于逻辑功能的开发。webmagic的核心非常简单，但是覆盖爬虫的整个流程，也是很好的学习爬虫开发的材料。
 ### [WxJava](https://github.com/Wechat-Group/WxJava) 
   - [ ] 支持包括微信支付、开放平台、公众号、企业微信/企业号、小程序等微信功能的后端开发。
 ### [IJPay](https://github.com/Javen205/IJPay) 
