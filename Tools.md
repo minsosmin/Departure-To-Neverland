@@ -28,7 +28,8 @@
   * [ipfs](https://ipfs.io/docs/install/)
   * [tinyurl](https://tinyurl.com/)
   * [outman](https://lvii.gitbooks.io/outman/content/)
-  * [Base64-decode](http://tool.chinaz.com/Tools/Base64.aspx)
+  * [Base64 解密](http://tool.chinaz.com/Tools/Base64.aspx)
+  * [二维码生产器](https://www.qrstuff.com/)
 </details>
 
 **<details><summary><font size="4">Chrome</font></summary>**
