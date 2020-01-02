@@ -20,6 +20,7 @@
   * [coderschool](https://coderschool.cn/)
   * [ruyo](https://51.ruyo.net/)
   * [nutgeek](https://www.nutgeek.com/)
+  * [anyproxy](https://www.anyproxy.cn/)
 </details>
 
 **<details><summary><font size="4">Chrome</font></summary>**
