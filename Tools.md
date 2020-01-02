@@ -28,6 +28,7 @@
   * [ipfs](https://ipfs.io/docs/install/)
   * [tinyurl](https://tinyurl.com/)
   * [outman](https://lvii.gitbooks.io/outman/content/)
+  * [Base64-decode](http://tool.chinaz.com/Tools/Base64.aspx)
 </details>
 
 **<details><summary><font size="4">Chrome</font></summary>**
