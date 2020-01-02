@@ -22,6 +22,8 @@
   * [nutgeek](https://www.nutgeek.com/)
   * [anyproxy](https://www.anyproxy.cn/)
   * [shadowsocks-heroku](https://github.com/onplus/shadowsocks-heroku)|[shadowsocks-heroku](https://github.com/mrluanma/shadowsocks-heroku)|[shadowsocks-heroku](https://github.com/shadowsocks/shadowsocks-dotcloud)
+  * [ShadowSocks-Share](https://github.com/zc-zh-001/ShadowSocks-Share)
+  * [ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare)
 </details>
 
 **<details><summary><font size="4">Chrome</font></summary>**
