@@ -17,6 +17,9 @@
   * [htmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)
   * [similarsitesearch](https://www.similarsitesearch.com/cn/)
   * [Freedom](https://github.com/nulastudio/Freedom)
+  * [coderschool](https://coderschool.cn/)
+  * [ruyo](https://51.ruyo.net/)
+  * [nutgeek](https://www.nutgeek.com/)
 </details>
 
 **<details><summary><font size="4">Chrome</font></summary>**
