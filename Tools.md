@@ -13,6 +13,7 @@
 
 **<details><summary><font size="4">GFW</font></summary>**
   * [gfw](https://github.com/topics/gfw)
+  * [gfwlist](https://github.com/gfwlist/gfwlist)
   * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
   * [htmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)
   * [similarsitesearch](https://www.similarsitesearch.com/cn/)
