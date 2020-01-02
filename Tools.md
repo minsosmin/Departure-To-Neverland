@@ -13,6 +13,7 @@
 
 **<details><summary><font size="4">GFW</font></summary>**
   * [gfw](https://github.com/topics/gfw)
+  * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
 </details>
 
 **<details><summary><font size="4">Chrome</font></summary>**
