@@ -16,6 +16,7 @@
   * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
   * [htmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)
   * [similarsitesearch](https://www.similarsitesearch.com/cn/)
+  * [Freedom](https://github.com/nulastudio/Freedom)
 </details>
 
 **<details><summary><font size="4">Chrome</font></summary>**
