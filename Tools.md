@@ -27,6 +27,7 @@
   * [ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare)
   * [ipfs](https://ipfs.io/docs/install/)
   * [tinyurl](https://tinyurl.com/)
+  * [outman](https://lvii.gitbooks.io/outman/content/)
 </details>
 
 **<details><summary><font size="4">Chrome</font></summary>**
