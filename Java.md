@@ -44,6 +44,7 @@
   - [fastjson](#fastjson)
   - [easyexcel](#easyexcel)
   - [dbeaver](#dbeaver)
+  - [sms-daming](#sms-daming)
   - [awesome-java-cn](#awesome-java-cn)
   - [chinese-copywriting-guidelines](#chinese-copywriting-guidelines)
   - [awesome-cheatsheets](#awesome-cheatsheets)
@@ -157,6 +158,8 @@
   - [ ] 快速、简单避免OOM的java处理Excel工具 
 ### [dbeaver](https://github.com/dbeaver/dbeaver)  
   - [ ] Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports any database which has JDBC driver (which basically means - ANY database). EE version also supports non-JDBC datasources (WMI, MongoDB, Cassandra, Redis).
+### [sms-daming](https://github.com/TheBund1st/daming) 
+  - [ ] 短信功能相关
 ### [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)    
   - [ ] Java 资源大全中文版
 ### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)    
