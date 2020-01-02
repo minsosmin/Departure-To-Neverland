@@ -21,6 +21,7 @@
   * [ruyo](https://51.ruyo.net/)
   * [nutgeek](https://www.nutgeek.com/)
   * [anyproxy](https://www.anyproxy.cn/)
+  * [shadowsocks-heroku](https://github.com/onplus/shadowsocks-heroku)|[shadowsocks-heroku](https://github.com/mrluanma/shadowsocks-heroku)|[shadowsocks-heroku](https://github.com/shadowsocks/shadowsocks-dotcloud)
 </details>
 
 **<details><summary><font size="4">Chrome</font></summary>**
