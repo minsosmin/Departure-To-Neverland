@@ -16,6 +16,7 @@
   * [gfwlist](https://github.com/gfwlist/gfwlist)
   * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
   * [htmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)
+  * [qwant](https://www.qwant.com/)
   * [similarsitesearch](https://www.similarsitesearch.com/cn/)
   * [Freedom](https://github.com/nulastudio/Freedom)
   * [coderschool](https://coderschool.cn/)
