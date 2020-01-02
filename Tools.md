@@ -15,6 +15,7 @@
   * [gfw](https://github.com/topics/gfw)
   * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
   * [htmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)
+  * [similarsitesearch](https://www.similarsitesearch.com/cn/)
 </details>
 
 **<details><summary><font size="4">Chrome</font></summary>**
