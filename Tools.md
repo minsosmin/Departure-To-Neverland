@@ -1,6 +1,5 @@
 ### Tools 
 
-[Google 翻译](https://translate.google.cn/)  
 [Git](https://git-scm.com/book/zh/v2)  
 [MVN Repository](https://mvnrepository.com/)  
 [Apache Commons](http://commons.apache.org/)  
@@ -12,17 +11,16 @@
 
 [Cambridge Dictionary](https://dictionary.cambridge.org/)  
 
-**<details><summary><font size="4">Chrome<font/><summary>**
- 
+**<details><summary><font size="4">GFW</font></summary>**
   * [gfw](https://github.com/topics/gfw)
-
 </details>
 
-**<details><summary><font size="4">Chrome</font></summary>** 
+**<details><summary><font size="4">Chrome</font></summary>**
 
   * [Chrome download](https://tools.shuax.com/chrome/#/)
   * [repo-chrome](https://repo.fdzh.org/chrome/exe/)
   * [chrome-extension-downloader](https://chrome-extension-downloader.com/)
+  * [Google 翻译](https://translate.google.cn/)
 
 </details>
 
