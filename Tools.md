@@ -21,6 +21,12 @@
   
 </details>  
 
+**<details><summary><font size="4">Chrome</font></summary>** 
+
+  * [Chrome download](https://tools.shuax.com/chrome/#/)
+
+</details>
+
 ### Web Front End
 [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)  
 [W3School](https://www.w3school.com.cn/)  
