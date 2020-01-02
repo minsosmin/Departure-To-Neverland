@@ -16,6 +16,7 @@
   * [思维导图](https://my-mind.github.io/)
   * [流程图](https://www.draw.io/)
   * [office 技巧](https://www.ruhe8.com/)
+  * [电子书](http://ireadweek.com/)
   * [tinyurl](https://tinyurl.com/)
   * [htmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)
   * [qwant](https://www.qwant.com/)
