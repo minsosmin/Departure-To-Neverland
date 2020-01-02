@@ -18,12 +18,14 @@
   * [Chrome download](https://tools.shuax.com/chrome/#/) | [repo-chrome](https://repo.fdzh.org/chrome/exe/)
   * [chrome-extension-downloader](https://chrome-extension-downloader.com/)
   * [gfw](https://github.com/topics/gfw)
-  
-</details>  
+
+</details>
 
 **<details><summary><font size="4">Chrome</font></summary>** 
 
   * [Chrome download](https://tools.shuax.com/chrome/#/)
+  * [repo-chrome](https://repo.fdzh.org/chrome/exe/)
+  * [chrome-extension-downloader](https://chrome-extension-downloader.com/)
 
 </details>
 
