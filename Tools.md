@@ -12,7 +12,7 @@
 
 [Cambridge Dictionary](https://dictionary.cambridge.org/)  
 
-<details><summary><font size="4">**Chrome**<font/><summary>
+**<details><summary><font size="4">Chrome<font/><summary>**
  
   * [Firefox Browser to download](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
   * [Chrome download](https://tools.shuax.com/chrome/#/) | [repo-chrome](https://repo.fdzh.org/chrome/exe/)
