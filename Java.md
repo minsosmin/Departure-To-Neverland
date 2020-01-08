@@ -44,7 +44,7 @@
   - [fastjson](#fastjson)
   - [easyexcel](#easyexcel)
   - [dbeaver](#dbeaver)
-  - [jboss-javassist](jboss-javassist)
+  - [jboss-javassist](#jboss-javassist)
   - [sms-daming](#sms-daming)
   - [awesome-java-cn](#awesome-java-cn)
   - [chinese-copywriting-guidelines](#chinese-copywriting-guidelines)
