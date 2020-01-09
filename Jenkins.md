@@ -1,8 +1,6 @@
 # [官方文档](https://jenkins.io/zh/doc/#doc/developer#)
 
-# [dalao-blob](http://www.mydlq.club/article/23/)
-
-### 利用 Java 操作 Jenkins API 实现对 Jenkins 的控制详解
+### 利用 Java 操作 Jenkins API 实现对 Jenkins 的控制详解 [dalao-blob](http://www.mydlq.club/article/23/)
   - Job 相关
   ```java
   Job job = new Job();
