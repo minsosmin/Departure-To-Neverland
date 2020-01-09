@@ -57,7 +57,7 @@
   * [Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 </details>
  
-**<details><summary><font size="4">Web Front End</font></summary>**
+**<details><summary><font size="4">docs</font></summary>**
   * [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
   * [W3School](https://www.w3school.com.cn/)
   * [Bootstrap 中文网](https://www.bootcss.com/)
