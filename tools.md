@@ -65,8 +65,10 @@
   * [Bootstrap 中文网](https://www.bootcss.com/)
 </details>
 
-**<details><summary><font size="4">Lib</font></summary>**
+**<details><summary><b>Lib</b></summary>**
+ <p>
   * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+ </p> 
 </details>
 
 **<details><summary><font size="4">Questions</font></summary>**
