@@ -2,6 +2,7 @@
 
  - dependency
  ```xml
+  <!-- https://github.com/jenkinsci/java-client-api -->
   <dependency>
     <groupId>com.offbytwo.jenkins</groupId>
     <artifactId>jenkins-client</artifactId>
