@@ -56,9 +56,10 @@
 **<details><summary><font size="4">Awesome-Software</font></summary>**
   * [Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
   * [Awesome-Linux](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md)
+  * [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 </details>
  
-**<details><summary><font size="4">docs</font></summary>**
+**<details><summary><font size="4">Docs</font></summary>**
   * [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
   * [W3School](https://www.w3school.com.cn/)
   * [Bootstrap 中文网](https://www.bootcss.com/)
