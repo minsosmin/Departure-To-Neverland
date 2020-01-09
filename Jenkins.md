@@ -1,5 +1,13 @@
 # [官方文档](https://jenkins.io/zh/doc/#doc/developer#)
 
+ - 概念
+ ```html
+ 持续集成(Continuous Integration)、持续交付(Continuous Delivery) 和持续部署(Continuous Deployment)
+
+ 什么是 Jenkins 的流水线?
+ Jenkins 流水线 (或简单的带有大写"P"的"Pipeline") 是一套插件，它支持实现和集成 continuous delivery pipelines 到 Jenkins。
+ ```
+
  - dependency
  ```xml
   <!-- https://github.com/jenkinsci/java-client-api -->
