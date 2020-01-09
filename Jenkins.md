@@ -1,5 +1,14 @@
 # [官方文档](https://jenkins.io/zh/doc/#doc/developer#)
 
+ - dependency
+ ```xml
+  <dependency>
+    <groupId>com.offbytwo.jenkins</groupId>
+    <artifactId>jenkins-client</artifactId>
+    <version>0.3.8</version>
+  </dependency>
+ ```
+
 ### 利用 Java 操作 Jenkins API 实现对 Jenkins 的控制详解 [dalao-blob](http://www.mydlq.club/article/23/)
   - Job 相关
   ```java
