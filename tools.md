@@ -66,7 +66,7 @@
 </details>
 
 **<details><summary><font size="4">Lib</font></summary>**
-  * [Firefox Browser to download](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
+  * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 </details>
 
 **<details><summary><font size="4">Questions</font></summary>**
