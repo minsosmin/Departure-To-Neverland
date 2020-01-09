@@ -56,5 +56,95 @@
   // 根据 View 名称获取 Job 列表
   Map<String,Job> viewJobs = jenkins.getJobs("all");	
   ```
+  - Build 相关
+  ```java
+  obWithDetails jobWithDetails = jobs.get(jobName).details();
+  # 首次编译信息
+  Build firstBuild = jobWithDetails.getFirstBuild();
+  # 最后编译信息
+  Build lastBuild = jobWithDetails.getLastBuild();
+  # 根据 Job Build 编号获取编译信息
+  Build numberBuild = jobWithDetails.getBuildByNumber(1);
+  # 全部 Build 信息
+  List<Build> builds = jobWithDetails.getAllBuilds();
+  # 一定范围的 Build 列表
+  Range range = Range.build().from(1).to(2); // 设定范围
+  List<Build> builds = job.getAllBuilds(range);
+  for (Build build : builds){
+    build.getUrl(); // 构建的 URL 地址
+    build.getNumber();// 构建编号         
+    build.getTestReport();// 获取测试报告       
+    build.getTestResult();// 获取测试结果
+  }
+  # 上次成功
+  Build lastSuccessfulBuild = JobWithDetails.getLastSuccessfulBuild();
+  # 上次失败
+  Build lastFailedBuild = JobWithDetails.getLastFailedBuild();
+  # 上次持续时间
+  Build lastBuild = JobWithDetails.getLastBuild().getDuration();
+
+  # 构建的显示名称
+  buildWithDetails.getDisplayName();
+  # 构建的参数信息
+  buildWithDetails.getParameters();
+  # 构建编号
+  buildWithDetails.getNumber();
+  # 构建结果，如果构建未完成则会显示为 null
+  buildWithDetails.getResult();
+  # 构建的活动信息
+  buildWithDetails.getActions();
+  # 构建持续多少时间(ms)
+  buildWithDetails.getDuration();
+  # 构建开始时间戳
+  buildWithDetails.getTimestamp();
+  # 构建头信息，里面包含构建的用户，上游信息，时间戳等
+  List<BuildCause> buildCauses = buildWithDetails.getCauses();
+  for (BuildCause bc : buildCauses){
+      bc.getUserId();
+      bc.getShortDescription();
+      bc.getUpstreamBuild();
+      bc.getUpstreamProject();
+      bc.getUpstreamUrl();
+      bc.getUserName();
+  }
+  # Text格式日志
+  buildWithDetails.getConsoleOutputText();
+  # Html格式日志
+  buildWithDetails.getConsoleOutputHtml();
+  # 部分日志,一般用于正在执行构建的任务
+  ConsoleLog consoleLog = buildWithDetails.getConsoleOutputText(0);	
+  # 当前日志大小
+  Integer currentBufferSize = consoleLog.getCurrentBufferSize();		
+  # 是否已经构建完成，还有更多日志信息	
+  Boolean hasMoreData = consoleLog.getHasMoreData();
+  # 当前截取的日志信息
+  String consoleLog = consoleLog.getConsoleLog();
+
+  /**
+   * 获取正在执行构建任务的日志信息
+   */
+  public void getBuildActiveLog(){
+    try {
+      // 这里用最后一次编译来示例
+      BuildWithDetails build = jenkinsServer.getJob("test-job").getLastBuild().details();
+      // 当前日志
+      ConsoleLog currentLog = build.getConsoleOutputText(0);
+      // 输出当前获取日志信息
+      System.out.println(currentLog.getConsoleLog());
+      // 检测是否还有更多日志,如果是则继续循环获取
+      while (currentLog.getHasMoreData()){
+        // 获取最新日志信息
+        ConsoleLog newLog = build.getConsoleOutputText(currentLog.getCurrentBufferSize());
+        // 输出最新日志
+        System.out.println(newLog.getConsoleLog());
+        currentLog = newLog;
+        // 睡眠1s
+        Thread.sleep(1000);
+      }
+    }catch (IOException | InterruptedException e) {
+      e.printStackTrace();
+    }
+  }
+  ```
   
   
