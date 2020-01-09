@@ -58,7 +58,7 @@
   ```
   - Build 相关
   ```java
-  obWithDetails jobWithDetails = jobs.get(jobName).details();
+  JobWithDetails jobWithDetails = jobs.get(jobName).details();
   # 首次编译信息
   Build firstBuild = jobWithDetails.getFirstBuild();
   # 最后编译信息
@@ -147,4 +147,45 @@
   }
   ```
   
+  - 相关参数
+  ```java
+    private List<LinkedHashMap<String, List<LinkedHashMap<String, Object>>>> actions; // TODO: Should be improved.
+    
+    long timestamp = details.getTimestamp();
+    Timestamp ts = new Timestamp(timestamp);
+    buildDetailsHistoryV.setTimestamp(ts.toString());
+    
+    long duration = details.getDuration();
+    String durationStr = getDurationStr(duration);
+    private String getDurationStr(long duration) {
+
+        Date date = new Date(duration);
+        Instant instant = date.toInstant();
+        //ZoneId zone = ZoneId.systemDefault();
+        ZoneId zone = ZoneId.of("GMT");
+        LocalDateTime localDateTime = LocalDateTime.ofInstant(instant, zone);
+        LocalTime localTime = localDateTime.toLocalTime();
+        int hour = localTime.getHour();
+        int minute = localTime.getMinute();
+        int second = localTime.getSecond();
+
+        if (hour == 0) {
+            if (minute == 0) {
+                if (second == 0) {
+                    return "小于 1 秒";
+                }
+                return String.format("%d 秒", second);
+            } else {
+                return String.format("%d 分 %d 秒", minute, second);
+            }
+        } else {
+            if (minute == 0) {
+                return String.format("%d 小时 %d 秒", hour, second);
+            } else {
+                return String.format("%d 小时 %d 分 %d 秒", hour, minute, second);
+            }
+        }
+
+  }
+  ```
   
