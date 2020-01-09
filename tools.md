@@ -62,6 +62,7 @@
 **<details><summary><font size="4">Docs</font></summary>**
   * [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
   * [W3School](https://www.w3school.com.cn/)
+  * [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
   * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   * [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
 </details>
