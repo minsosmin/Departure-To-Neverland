@@ -27,8 +27,9 @@
 **<details><summary><font size="4">GFW</font></summary>**
   * [gfw](https://github.com/topics/gfw)
   * [gfwlist](https://github.com/gfwlist/gfwlist)
-  * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
+  * [free-ss](https://github.com/free-ss/free-ss.site)
   * [Freedom](https://github.com/nulastudio/Freedom)
+  * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
   * [coderschool](https://coderschool.cn/)
   * [ruyo](https://51.ruyo.net/)
   * [nutgeek](https://www.nutgeek.com/)
