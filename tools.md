@@ -67,7 +67,9 @@
 
 **<details><summary><b>Lib</b></summary>**
  <p>
-  - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  
+  * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+  
  </p> 
 </details>
 
