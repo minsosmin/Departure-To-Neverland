@@ -55,6 +55,7 @@
 
 **<details><summary><font size="4">Awesome-Software</font></summary>**
   * [Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+  * [Awesome-Linux](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md)
 </details>
  
 **<details><summary><font size="4">docs</font></summary>**
