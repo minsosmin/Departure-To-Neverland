@@ -52,6 +52,10 @@
 **<details><summary><font size="4">Firefox</font></summary>**
   * [Firefox Browser to download](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
 </details>
+
+**<details><summary><font size="4">Awesome-Software</font></summary>**
+  * [Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+</details>
  
 **<details><summary><font size="4">Web Front End</font></summary>**
   * [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
