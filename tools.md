@@ -28,6 +28,7 @@
   * [gfw](https://github.com/topics/gfw)
   * [gfwlist](https://github.com/gfwlist/gfwlist)
   * [free-ss](https://github.com/free-ss/free-ss.site)
+  * [freess](https://github.com/max2max/freess)
   * [Freedom](https://github.com/nulastudio/Freedom)
   * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
   * [coderschool](https://coderschool.cn/)
