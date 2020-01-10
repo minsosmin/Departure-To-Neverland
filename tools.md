@@ -57,6 +57,7 @@
   * [Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
   * [Awesome-Linux](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md)
   * [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+  * [iTerm2-mac](https://github.com/gnachman/iTerm2)
 </details>
  
 **<details><summary><font size="4">Docs</font></summary>**
