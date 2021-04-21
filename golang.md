@@ -10,20 +10,21 @@
   * [Go语言原本](https://golang.design/under-the-hood/)
   * [golang设计模式](https://github.com/senghoo/golang-design-pattern)
   * [Go语言四十二章经](https://github.com/ffhelicopter/Go42)
+  * [原作者](https://segmentfault.com/a/1190000038922260)
 </details>
 
-**<details><summary><b>origin author</b></summary>**
- <p>
-  
-  * [author](https://segmentfault.com/a/1190000038922260)
-  
- </p> 
- 
  **<details><summary><font size="4">go interview</font></summary>**
   * [极客兔兔](https://geektutu.com/post/qa-golang.html)
   * [GO 面试题](https://www.jishuchi.com/read/go-interview/3435)
   * [golang面试题集合](https://github.com/lifei6671/interview-go)
   * [Golang面试题，收集自Golang中文网](https://github.com/yqchilde/Golang-Interview)
 </details>
+
+**<details><summary><b>to be a gopher</b></summary>**
+ <p>
+  
+  * [gotyou](https://github.com/gotyouTosyourai)
+  
+ </p> 
  
 </details>
