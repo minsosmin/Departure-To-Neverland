@@ -14,6 +14,7 @@
 </details>
 
  **<details><summary><font size="4">golang rufa</font></summary>**
+  * [halfrost](https://github.com/halfrost/LeetCode-Go)
   * [draveness](https://draveness.me/golang/)
 </details>
 
