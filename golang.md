@@ -1,5 +1,6 @@
 **<details><summary><font size="4">golang study</font></summary>**
   <p>
+    
    * [Go 实战开发](https://github.com/astaxie/go-best-practice)
    * [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
    * [Go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
@@ -12,9 +13,12 @@
    * [golang设计模式](https://github.com/senghoo/golang-design-pattern)
    * [Go语言四十二章经](https://github.com/ffhelicopter/Go42)
    * [原作者](https://segmentfault.com/a/1190000038922260)
+ 
   </p> 
   <p>
+  
    * [Go语言中文文档](http://www.topgoer.com/)
+ 
   </p> 
 </details>
 
