@@ -22,7 +22,7 @@
   </p> 
 </details>
 
- **<details><summary><font size="4">golang rufa</font></summary>**
+ **<details><summary><font size="4">golang blog</font></summary>**
   * [halfrost](https://github.com/halfrost/LeetCode-Go)
   * [draveness](https://draveness.me/golang/)
 </details>
@@ -37,7 +37,7 @@
 **<details><summary><b>to be a gopher</b></summary>**
  <p>
   
-  * [gotyou](https://github.com/gotyouTosyourai)
+  * [gotyou](https://github.com/gotyou999)
   
  </p> 
  
